@@ -1,5 +1,5 @@
 
-# Crypto Currency Sentiment Analysis Using Text Abstraction
+# Crypto Currency Sentiment Analysis Using Machine Learning
 
 Our project aims to provide suggestions to the users whether they should buy, sell or hold their share
 of cryptocurrencies. To do this we are using sentiment analysis with the help of text abstraction. This project uses a Long Short-Term Memory (LSTM) neural network to predict the price of Bitcoin in US dollars. The LSTM model is implemented using the Keras library in Python and also after conducting literature survey we got to know that LSTM model has more accuracy and longer dependencies. we aim to provide a better solution that
@@ -52,12 +52,6 @@ platforms such as Reddit, Facebook, and Instagram, to gain more comprehensive in
 into market trends.
 3. The study can explore various machine learning and deep learning models to build
 predictive models and test their accuracy on real-time data
-
-## Results
-
-![ss1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/2aacf999-5c77-4c68-9a7f-d52da5c89a71)
-
-![graph1](https://github.com/Patilsanika/Crypto_Sentiment_Analysis/assets/86789929/89b8035c-ec26-44c3-a498-ad2f8e829065)
 
 
 ## Acknowledgments
